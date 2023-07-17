@@ -1,0 +1,14 @@
+.idea
+.settings
+
+# classpath
+.classpath
+*.clsvis
+
+*.jar
+
+# game config
+config.txt
+
+# game save file
+save.dat
